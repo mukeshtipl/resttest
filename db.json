@@ -1,0 +1,15 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "title": "renault"
+    },
+    {
+      "id": 2,
+      "title": "suzuki"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
